@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A Quinta de Favaes está situada a três quilómetros da vila de Paredes de Coura, em pleno coração do Alto Minho, no noroeste de Portugal. Este é o local onde poderá disfrutar da tranquilidade da vida no campo, a pureza e frescura das águas, as fragrâncias da vegetação, o canto das aves que passam... '
-datePublished: '2016-04-29T22:40:35.825Z'
-dateModified: '2016-04-29T22:32:06.616Z'
+datePublished: '2016-04-29T22:43:28.211Z'
+dateModified: '2016-04-29T22:42:03.262Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-29-a-quinta-de-favaes-esta-situada-a-tres-quilometros-da-vila-d.md
 published: true
+starred: true
 url: a-quinta-de-favaes-esta-situada-a-tres-quilometros-da-vila-d/index.html
 _type: Article
 
