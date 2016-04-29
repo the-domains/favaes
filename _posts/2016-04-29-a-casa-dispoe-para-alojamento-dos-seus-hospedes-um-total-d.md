@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A casa dispõe, para alojamento dos seus hóspedes, um total de cinco quartos com capacidade para duas pessoas: três quartos duplos com casa de banho privativa, um quarto duplo, um quarto duplo “twin”, com duas camas individuais. '
-datePublished: '2016-04-29T22:40:35.839Z'
-dateModified: '2016-04-29T22:37:05.222Z'
+datePublished: '2016-04-29T22:42:30.617Z'
+dateModified: '2016-04-29T22:42:30.025Z'
 title: ''
 author: []
 authors: []
