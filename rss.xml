@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Quinta de Favaes - Turismo Rural]]></title>
+        <description><![CDATA[Quinta de Favaes - Turismo Rural]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 22:40:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b5f19d-19fb-4ef0-9836-4c8b9185486a.jpg">]]></description>
+            <link>undefineda-quinta-de-favaes-esta-situada-a-tres-quilometros-da-vila-d/index.html</link>
+            <guid isPermaLink="false">7135369f-fd13-412b-bc3d-16eebbc9b991</guid>
+            <pubDate>Fri, 29 Apr 2016 22:40:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
